@@ -18,7 +18,7 @@ acbc5621-2c16-4c57-865d-fbabf32…
     
 - [[Type assertion и type switch]]
     
-- [[Структуры в Go]]
+- [[Struct]]
     
 - [[Методы в Go]]
     
