@@ -25,7 +25,7 @@
 
 В Go много:
 
-- [[Goroutines]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 - сетевых запросов
     
@@ -241,7 +241,7 @@ Context — не контейнер зависимостей.
 
 # 🔗 Связанные темы
 
-- [[Goroutines]]
+- [[Goroutine]]
     
 - [[Select]]
     

@@ -159,13 +159,23 @@
               "icon": "lucide-list",
               "title": "Outline of create a link"
             }
+          },
+          {
+            "id": "3ecaf5290cf04e78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +192,12 @@
   },
   "active": "b5893bfb7c7f4cac",
   "lastOpenFiles": [
+    "Goroutine.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
-    "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
     "Интерфейсы в Go.md",
     "Структуры в Go.md",
@@ -207,10 +219,8 @@
     "net/http.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/UDP.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
     "Untitled.base",
     "Untitled 1.canvas",
-    "2026-02-19.md",
     "Untitled 2.canvas",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",

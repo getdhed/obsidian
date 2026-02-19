@@ -1,7 +1,7 @@
 
 ## Что такое Channel
 
-**Channel** — это механизм передачи данных между [[Goroutine]].
+**Channel** — это механизм передачи данных между [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]].
 
 Он позволяет:
 
@@ -20,7 +20,7 @@ Go следует принципу:
 
 - [[Concurrency]]
     
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 
 ---
@@ -230,7 +230,7 @@ ch <- 1
 
 - [[Deadlock]]
     
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 
 ---
@@ -297,7 +297,7 @@ Fan-in — объединение нескольких каналов в оди�
 
 - [[Select]]
     
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 
 ---
@@ -372,7 +372,7 @@ Channel — это:
 
 Он лежит в основе:
 
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 - [[HTTP]]
     

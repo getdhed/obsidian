@@ -170,7 +170,7 @@ for {
     go handlePacket(...)  
 }
 
-Можно обрабатывать каждую датаграмму в отдельной [[Goroutine]].
+Можно обрабатывать каждую датаграмму в отдельной [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]].
 
 ---
 

@@ -22,7 +22,7 @@
 
 Основные инструменты:
 
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 - [[Channel]]
     
@@ -63,7 +63,7 @@ go func() {
 
 Связанные темы:
 
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 - [[Scheduler]]
     
@@ -277,7 +277,7 @@ ch <- 1 // deadlock
     
 - [[Select]]
     
-- [[Goroutine]]
+- [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
 
 ---

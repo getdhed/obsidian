@@ -198,7 +198,7 @@ for {
 
 Обычно:
 
-- одна [[Goroutine]] на соединение
+- одна [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]] на соединение
     
 - чтение и запись блокирующие
     

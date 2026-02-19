@@ -281,7 +281,7 @@ type User struct {
 
 Связано:
 
-- [[Interface]]
+- [[Interfaces]]
     
 - [[Polymorphism]]
     

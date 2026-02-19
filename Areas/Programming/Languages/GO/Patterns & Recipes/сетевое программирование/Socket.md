@@ -155,7 +155,7 @@ for {
 
 Обычно используются:
 
-- [[Goroutines]]
+- [[Goroutine]]
     
 - [[Select]]
     
