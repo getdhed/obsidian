@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goroutine.md",
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goroutine"
+              "title": "Router"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.51103591918945
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41e4db71a2261d46",
@@ -179,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +198,7 @@
   },
   "active": "b5893bfb7c7f4cac",
   "lastOpenFiles": [
+    "Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
@@ -203,7 +206,6 @@
     "Areas/Programming/Languages/GO/Syntax & Basics/Условные ветвления.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "WaitGroup.md",
-    "Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
