@@ -176,11 +176,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f4a1b369e81d34",
+  "active": "b5893bfb7c7f4cac",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/TCP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
@@ -191,7 +193,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "net/http.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/TCP.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/UDP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
