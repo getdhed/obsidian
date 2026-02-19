@@ -21,12 +21,14 @@
             "id": "de2ddeeae4aeb814",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Microservices"
             }
           }
         ],
@@ -205,6 +207,10 @@
   },
   "active": "de2ddeeae4aeb814",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
     "Goroutine.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
@@ -220,18 +226,14 @@
     "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Clean Architecture.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/TCP.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTPS.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Status Code.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "net/http.md",
     "net",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/UDP.md",
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
