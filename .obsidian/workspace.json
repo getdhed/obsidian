@@ -11,10 +11,14 @@
             "id": "b5893bfb7c7f4cac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Generics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generics"
             }
           }
         ]
@@ -180,11 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f4a1b369e81d34",
+  "active": "b5893bfb7c7f4cac",
   "lastOpenFiles": [
+    "Интерфейсы в Go.md",
+    "Generics.md",
+    "Структуры в Go.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
-    "Clean Architecture.md",
+    "Clean Architecture в Go.md",
     "Pointers.md",
+    "Clean Architecture.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/TCP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
@@ -208,10 +216,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Serialization.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/OSI Model.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/IP Address.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/NAT.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Socket.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
     "Untitled.canvas",

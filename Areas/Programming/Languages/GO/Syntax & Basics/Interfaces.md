@@ -13,7 +13,7 @@ acbc5621-2c16-4c57-865d-fbabf32…
 
 ## 📌 Связанные темы
 
-- [[Структуры в Go]]
+- [[Struct]]
     
 - [[Методы в Go]]
     
@@ -327,9 +327,9 @@ type Creator interface {
 
 Связано с:
 
-- [[Dependency Injection в Go]]
+- [[Dependency Injection]]
     
-- [[Clean Architecture в Go]]
+- [[Clean Architecture]]
     
 - [[Моки и тестирование в Go]]
     
@@ -349,7 +349,7 @@ type Creator interface {
 - проверке типов
     
 
-Теперь есть [[Generics в Go]].
+Теперь есть [[Generics]].
 
 Но:
 
