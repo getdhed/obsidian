@@ -126,7 +126,7 @@ paths:
     
 - [[JSON]]
     
-- [[Статус коды HTTP]]
+- [[Status Code]]
     
 
 ---

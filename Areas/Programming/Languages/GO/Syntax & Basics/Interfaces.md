@@ -25,7 +25,7 @@ acbc5621-2c16-4c57-865d-fbabf32…
     
 - [[Type assertion и type switch]]
     
-- [[Generics в Go]]
+- [[Generics]]
     
 
 ---
@@ -331,7 +331,7 @@ type Creator interface {
     
 - [[Clean Architecture]]
     
-- [[Моки и тестирование в Go]]
+- [[Testing]]
     
 
 ---
