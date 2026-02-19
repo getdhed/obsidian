@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5893bfb7c7f4cac",
+  "active": "35f4a1b369e81d34",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
     "Clean Architecture.md",
     "Pointers.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
@@ -211,7 +212,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/IP Address.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/NAT.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Socket.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Протокол.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
     "Untitled.canvas",
