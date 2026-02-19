@@ -247,7 +247,7 @@ Context — не контейнер зависимостей.
     
 - [[Channels]]
     
-- [[HTTP Handler]]
+- [[HTTP Handlers]]
     
 - [[gRPC]]
     

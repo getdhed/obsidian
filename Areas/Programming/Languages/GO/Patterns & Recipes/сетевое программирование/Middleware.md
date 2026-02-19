@@ -260,7 +260,7 @@ func Middleware(next http.Handler) http.Handler {
 	})  
 }
 
-📌 Связано с: [[Handlers]]
+📌 Связано с: [[HTTP Handlers]]
 
 ---
 
@@ -435,7 +435,7 @@ Middleware — это не особая сущность.
 
 ServeHTTP
 
-📌 База: [[Handlers]]  
+📌 База: [[HTTP Handlers]]  
 📌 Связано с: [[Router]]  
 📌 Связано с: [[ResponseWriter]]  
 📌 Связано с: [[Context]]  
