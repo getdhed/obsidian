@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f4a1b369e81d34",
+  "active": "b5893bfb7c7f4cac",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
@@ -211,7 +212,6 @@
     "Untitled 1.canvas",
     "2026-02-19.md",
     "Untitled 2.canvas",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
     "Untitled.canvas",
