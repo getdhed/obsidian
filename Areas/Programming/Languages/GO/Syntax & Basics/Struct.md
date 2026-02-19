@@ -292,7 +292,7 @@ Go строится на композиции структур + интерфе�
 
 - [[Clean Architecture]]
     
-- [[Dependency Injection в Go]]
+- [[Dependency Injection]]
     
 - [[Interfaces]]
     

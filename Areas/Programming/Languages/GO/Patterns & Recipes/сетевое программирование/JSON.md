@@ -254,9 +254,9 @@ var data map[string]interface{}
     
 - [[Struct]]
     
-- [[Pointer]]
+- [[Pointers]]
     
-- [[Interface]]
+- [[Interfaces]]
     
 - [[Middleware]]
     
