@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "f7b2ea1c750a7195",
+    "type": "split",
+    "children": [
+      {
+        "id": "42475c7feb8d2908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5893bfb7c7f4cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swagger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swagger"
+            }
+          },
+          {
+            "id": "de2ddeeae4aeb814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microservices"
+            }
+          },
+          {
+            "id": "5adf9cf90388b685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goroutine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goroutine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cbd25632bfa9b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2704d12f732280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f4a1b369e81d34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22e463c628c8062d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "http",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccf0c3188b73d44d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.51103591918945
+  },
+  "right": {
+    "id": "41e4db71a2261d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b5624f676ba9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f8bad400569bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "51eeb9b27ace6264",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "262bbbb046ad0577",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91f92fab302630d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "143b2d0f45e5037e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          },
+          {
+            "id": "3ecaf5290cf04e78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b5893bfb7c7f4cac",
+  "lastOpenFiles": [
+    "Swagger.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
+    "Goroutine.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
+    "conflict-files-obsidian-git.md",
+    "WaitGroup.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Handlers.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
+    "Интерфейсы в Go.md",
+    "Структуры в Go.md",
+    "Clean Architecture в Go.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Concurrency.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Generics.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Clean Architecture.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/TCP.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
+    "net",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
+    "Untitled.canvas",
+    "Areas/Programming/Languages/GO/Patterns & Recipes",
+    "Areas/Programming/Languages/GO/Syntax & Basics",
+    "Areas/Programming/Languages/Csharp",
+    "Areas/Programming/Languages/C++",
+    "Areas/Programming/Languages/Python",
+    "Areas/Programming/Languages/GO"
+  ]
+}
