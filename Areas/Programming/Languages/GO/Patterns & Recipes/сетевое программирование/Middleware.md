@@ -242,7 +242,238 @@ Middleware часто используется вместе с:
 4️⃣ Сделали слишком тяжёлую логику в middleware
 
 ---
+# Middleware (Go net/http)
 
+## 1. Что такое Middleware
+
+Middleware — это обычный `http.Handler`, который внутри себя вызывает другой `http.Handler`.
+
+Это реализация паттерна **Decorator**.
+
+Базовая модель:
+
+func Middleware(next http.Handler) http.Handler {  
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {  
+		// ДО  
+		next.ServeHTTP(w, r)  
+		// ПОСЛЕ  
+	})  
+}
+
+📌 Связано с: [[Handlers]]
+
+---
+
+## 2. Два способа написать middleware
+
+### Способ 1 — через struct
+
+type middleware struct {  
+	next http.Handler  
+}  
+  
+func (mw middleware) ServeHTTP(w http.ResponseWriter, r *http.Request) {  
+	fmt.Println("start")  
+	mw.next.ServeHTTP(w, r)  
+	fmt.Println("end")  
+}
+
+Использование:
+
+mw := middleware{next: mux}  
+http.ListenAndServe(":8080", mw)
+
+---
+
+### Способ 2 — через функцию (чаще используется)
+
+func Logging(next http.Handler) http.Handler {  
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {  
+		fmt.Println("start")  
+		next.ServeHTTP(w, r)  
+		fmt.Println("end")  
+	})  
+}
+
+Использование:
+
+handler := Logging(mux)  
+http.ListenAndServe(":8080", handler)
+
+Оба способа делают одно и то же.
+
+Разница только в стиле записи.
+
+---
+
+## 3. Важное различие: Handler vs Handle
+
+- `http.Handler` — интерфейс (тип обработчика)
+    
+- `mux.Handle(...)` — метод регистрации обработчика
+    
+- `mux.HandleFunc(...)` — удобная версия для функций
+    
+
+Пример:
+
+mux := http.NewServeMux()  
+  
+mux.HandleFunc("/", publicHandler) // регистрация
+
+Middleware создаёт handler,  
+но он **не участвует в обработке**, пока не зарегистрирован:
+
+h := Logging(http.HandlerFunc(searchHandler))  
+mux.Handle("/search", h)
+
+📌 Связано с: [[Router]]
+
+---
+
+## 4. Что реально происходит при обёртке
+
+Когда мы пишем:
+
+handler := Logging(Auth(mux))
+
+Создаётся структура:
+
+Logging  
+   ↓ next  
+Auth  
+   ↓ next  
+mux  
+   ↓  
+конкретный handler
+
+При запросе выполняется:
+
+Logging → Auth → mux → handler
+
+Каждый слой вызывает:
+
+next.ServeHTTP(w, r)
+
+---
+
+## 5. Middleware с параметрами
+
+Иногда middleware принимает настройки:
+
+func AuthMiddleware(token string) func(http.Handler) http.Handler {  
+	return func(next http.Handler) http.Handler {  
+		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {  
+			if r.Header.Get("X-Token") != token {  
+				http.Error(w, "unauthorized", http.StatusUnauthorized)  
+				return  
+			}  
+			next.ServeHTTP(w, r)  
+		})  
+	}  
+}
+
+Использование:
+
+h := http.HandlerFunc(searchHandler)  
+h = AuthMiddleware("123")(h)  
+mux.Handle("/search", h)
+
+Здесь происходит:
+
+1. `AuthMiddleware("123")` возвращает функцию
+    
+2. Эта функция принимает handler
+    
+3. Возвращает новый handler
+    
+
+Это не магия — это обычная функция-конструктор.
+
+---
+
+## 6. Правильная последовательность сборки
+
+Хороший стиль:
+
+mux := http.NewServeMux()  
+  
+mux.HandleFunc("/", publicHandler)  
+  
+h := http.HandlerFunc(searchHandler)  
+h = AuthMiddleware("123")(h)  
+h = LoggingMiddleware(h)  
+  
+mux.Handle("/search", h)  
+  
+http.ListenAndServe(":8080", mux)
+
+Этапы:
+
+1. Создали router
+    
+2. Создали базовый handler
+    
+3. Обернули middleware
+    
+4. Зарегистрировали
+    
+5. Запустили сервер
+    
+
+---
+
+## 7. Главное понимание
+
+Middleware — это не особая сущность.
+
+Это просто:
+
+> Handler, который внутри вызывает другой Handler
+
+Вся архитектура строится на интерфейсе:
+
+ServeHTTP
+
+📌 База: [[Handlers]]  
+📌 Связано с: [[Router]]  
+📌 Связано с: [[ResponseWriter]]  
+📌 Связано с: [[Context]]  
+📌 Связано с: [[HTTP]]
+
+---
+
+## 8. Ментальная модель
+
+Представлять нужно так:
+
+Request  
+   ↓  
+Middleware  
+   ↓  
+Middleware  
+   ↓  
+Router  
+   ↓  
+Final Handler
+
+Каждый слой — просто вызов `next.ServeHTTP`.
+
+---
+
+## 9. Уровень понимания “я разобрался”
+
+Ты понимаешь middleware, если можешь:
+
+- написать его через struct
+    
+- написать через функцию
+    
+- объяснить разницу Handler vs Handle
+    
+- построить цепочку `Logging(Auth(mux))`
+    
+- вручную собрать handler перед регистрацией
 # 📌 Главное понимание
 
 Middleware — это:
