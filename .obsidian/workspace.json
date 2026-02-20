@@ -11,14 +11,10 @@
             "id": "de2ddeeae4aeb814",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gorilla Mux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gorilla Mux"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -210,6 +206,9 @@
   },
   "active": "de2ddeeae4aeb814",
   "lastOpenFiles": [
+    "JWT.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Gorilla Mux.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Chi Router.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Протокол.md",
@@ -222,7 +221,6 @@
     "HTTP",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Goroutine.md",
     "Untitled.base",
     "WaitGroup.md",
@@ -236,11 +234,9 @@
     "Моки и тестирование в Go.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP Handlers.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
     "conflict-files-obsidian-git.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Pointers.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",

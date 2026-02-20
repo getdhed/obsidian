@@ -70,7 +70,7 @@ Payments Service
     
 - [[HTTP2]]
     
-- [[Protobuf]]
+- [[Protocol Buffers]]
     
 
 ---

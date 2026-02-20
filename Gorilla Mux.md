@@ -2,7 +2,7 @@
 
 ## Что такое gorilla/mux
 
-**gorilla/mux** — это расширенный [[Router]] для [[net/http]].
+**gorilla/mux** — это расширенный [[Router]] для [[HTTP]].
 
 Он:
 
@@ -122,7 +122,7 @@ Middleware подключаются через:
 
 r.Use(loggingMiddleware)
 
-Сигнатура такая же, как в [[net/http]]:
+Сигнатура такая же, как в [[HTTP]]:
 
 func(next http.Handler) http.Handler
 
@@ -305,4 +305,4 @@ gorilla/mux =
 - не full framework
     
 
-Это просто расширенный [[Router]] поверх [[net/http]].
+Это просто расширенный [[Router]] поверх [[HTTP]].
