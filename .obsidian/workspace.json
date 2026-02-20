@@ -206,6 +206,8 @@
   },
   "active": "35f4a1b369e81d34",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP2.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Logging.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Cookies.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JWT.md",
@@ -235,8 +237,6 @@
     "Моки и тестирование в Go.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP Handlers.md",
-    "conflict-files-obsidian-git.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Router.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
