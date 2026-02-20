@@ -332,7 +332,7 @@ pkg/
     
 - [[gRPC]]
     
-- [[Protobuf]]
+- [[Protocol Buffers]]
     
 - [[HTTP]]
     
