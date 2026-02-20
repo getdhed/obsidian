@@ -229,7 +229,7 @@ if rec.Code != http.StatusOK {
     
 
 Связано с:  
-[[net/HTTP]]  
+[[HTTP]]  
 [[Middleware]]  
 [[Router]]
 
