@@ -11,10 +11,14 @@
             "id": "de2ddeeae4aeb814",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
             }
           },
           {
@@ -206,6 +210,7 @@
   },
   "active": "de2ddeeae4aeb814",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Goroutine.md",
@@ -235,7 +240,6 @@
     "Интерфейсы в Go.md",
     "Структуры в Go.md",
     "Clean Architecture в Go.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Concurrency.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
