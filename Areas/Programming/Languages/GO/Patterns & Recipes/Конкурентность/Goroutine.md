@@ -195,7 +195,7 @@ go func() {
 
 Очень важно в:
 
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[gRPC]]
     
@@ -220,7 +220,7 @@ http.ListenAndServe(":8080", nil)
 
 Связано:
 
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[Server]]
     

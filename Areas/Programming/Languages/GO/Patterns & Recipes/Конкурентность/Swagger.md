@@ -113,7 +113,7 @@ paths:
 // @Router /users/{id} [get]
 
 После генерации появляется `/swagger/index.html`.
-
+ 
 Связанные темы:
 
 - [[HTTP]]

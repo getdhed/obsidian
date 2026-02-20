@@ -261,7 +261,7 @@ case v := <-ch:
 
 Очень важно в:
 
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[gRPC]]
     
@@ -374,7 +374,7 @@ Channel — это:
 
 - [[Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine]]
     
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[Microservices]]
     

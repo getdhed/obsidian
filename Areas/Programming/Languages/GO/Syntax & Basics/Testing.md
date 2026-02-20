@@ -229,7 +229,7 @@ if rec.Code != http.StatusOK {
     
 
 Связано с:  
-[[HTTP]]  
+[[net/HTTP]]  
 [[Middleware]]  
 [[Router]]
 
@@ -275,7 +275,6 @@ go tool cover -html=cover.out
 [[Interfaces]]  
 [[Concurrency]]  
 [[HTTP]]  
-[[net/http]]  
 [[httptest]]  
 [[Benchmarking]]  
 [[Race Detector]]

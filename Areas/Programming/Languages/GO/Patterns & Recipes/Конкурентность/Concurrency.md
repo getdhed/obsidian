@@ -182,7 +182,7 @@ wg.Wait()
 
 Очень важен в:
 
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[gRPC]]
     
@@ -207,7 +207,7 @@ http.ListenAndServe(":8080", nil)
 
 Связано с:
 
-- [[HTTP]]
+- [[net/HTTP]]
     
 - [[TCP]]
     

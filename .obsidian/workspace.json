@@ -11,10 +11,14 @@
             "id": "de2ddeeae4aeb814",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Programming/Languages/GO/Syntax & Basics/Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing"
             }
           },
           {
@@ -88,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.51103591918945
   },
   "right": {
     "id": "41e4db71a2261d46",
@@ -206,13 +210,16 @@
   },
   "active": "de2ddeeae4aeb814",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Swagger.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
+    "net/HTTP.md",
+    "Areas/Programming/Languages/GO/Syntax & Basics/Testing.md",
     "HTTP/HTTP2.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Chi Router.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
     "HTTP",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Goroutine.md",
     "Untitled.base",
@@ -221,12 +228,10 @@
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Статус коды HTTP.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Swagger.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Status Code.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Interfaces.md",
     "Моки и тестирование в Go.md",
-    "Areas/Programming/Languages/GO/Syntax & Basics/Testing.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Context.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP Handlers.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
@@ -236,7 +241,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Channels.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JSON.md",
-    "Areas/Programming/Languages/GO/Syntax & Basics/Struct.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
