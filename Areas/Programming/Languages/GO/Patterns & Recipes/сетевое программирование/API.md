@@ -76,7 +76,7 @@ func (api *API) Endpoints() {
 - без хаоса
     
 
-Связанные темы: [[REST]], [[Clean Architecture]]
+Связанные темы: [[REST API]], [[Clean Architecture]]
 
 ---
 
