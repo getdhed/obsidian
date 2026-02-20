@@ -68,7 +68,7 @@ Payments Service
 
 - [[TCP]]
     
-- [[HTTP/2]]
+- [[HTTP2]]
     
 - [[Protobuf]]
     
