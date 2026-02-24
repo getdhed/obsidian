@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de2ddeeae4aeb814",
+  "active": "35f4a1b369e81d34",
   "lastOpenFiles": [
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",

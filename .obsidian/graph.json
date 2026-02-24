@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path: \"Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.19272727272727,
-  "lineSizeMultiplier": 0.634181818181818,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3613103748023416,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.96072727272727,
+  "lineSizeMultiplier": 1.05309090909091,
+  "collapse-forces": false,
+  "centerStrength": 0.745454545454546,
+  "repelStrength": 16.6189239332096,
+  "linkStrength": 0.488979591836735,
+  "linkDistance": 30,
+  "scale": 0.5396170846225755,
   "close": false
 }
