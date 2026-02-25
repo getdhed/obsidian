@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42475c7feb8d2908",
+        "id": "796f3f57d93c8390",
         "type": "tabs",
         "children": [
           {
-            "id": "740dc0b451f10a0e",
+            "id": "8b80ee5689c5b9a0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -190,9 +190,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "740dc0b451f10a0e",
+  "active": "8b80ee5689c5b9a0",
   "lastOpenFiles": [
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Goroutine.md",
     "Untitled.md",
@@ -209,6 +208,7 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Cookies.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Microservices.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JWT.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Gorilla Mux.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Chi Router.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Протокол.md",
