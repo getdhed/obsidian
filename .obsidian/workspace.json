@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de2ddeeae4aeb814",
+            "id": "5adf9cf90388b685",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "5adf9cf90388b685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goroutine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goroutine"
             }
           }
         ]
@@ -204,12 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f4a1b369e81d34",
+  "active": "5adf9cf90388b685",
   "lastOpenFiles": [
+    "Goroutine.md",
+    "Untitled.md",
+    "Panic.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/проектирование",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
-    "Goroutine.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP Handlers.md",
     "Dependency Injection.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/API.md",
@@ -236,14 +224,12 @@
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Статус коды HTTP.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Status Code.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
     "Areas/Programming/Languages/GO/Patterns & Recipes",
     "Areas/Programming/Languages/GO/Syntax & Basics",
     "Areas/Programming/Languages/Csharp",
-    "Areas/Programming/Languages/C++",
-    "Areas/Programming/Languages/Python"
+    "Areas/Programming/Languages/C++"
   ]
 }
