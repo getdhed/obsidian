@@ -11,7 +11,7 @@
       "query": "path: \"Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16777215
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 16.6189239332096,
   "linkStrength": 0.488979591836735,
   "linkDistance": 30,
-  "scale": 0.5396170846225755,
+  "scale": 0.2911865980165674,
   "close": false
 }
