@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+                "file": "server_grpc pb go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gRPC"
+              "title": "server_grpc pb go"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "740dc0b451f10a0e",
   "lastOpenFiles": [
-    "файл proto.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+    "server_grpc pb go.md",
+    "файл proto.md",
     "файл.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
@@ -224,7 +225,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Swagger.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
     "net/HTTP.md",
-    "HTTP/HTTP2.md",
     "HTTP",
     "Untitled.base",
     "Untitled 1.canvas",

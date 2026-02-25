@@ -76,13 +76,13 @@ protoc --go_out=. --go-grpc_out=. user.proto
 
 Из `.proto` генерируется:
 
-## `*.pb.go`
+##  [[server pb go]]
 
 - структуры message
 - методы сериализации
 - дескрипторы схемы
 
-## `*_grpc.pb.go`
+##  [[server_grpc pb go]]
 
 - интерфейс сервера
 - клиентский stub
