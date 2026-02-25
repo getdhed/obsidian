@@ -206,6 +206,7 @@
   },
   "active": "35f4a1b369e81d34",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/проектирование",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
     "Goroutine.md",
@@ -236,7 +237,6 @@
     "Untitled.canvas",
     "Статус коды HTTP.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Status Code.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/REST API.md",
     "net",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование",
