@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "файл proto.md",
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "файл proto"
+              "title": "gRPC"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "740dc0b451f10a0e",
   "lastOpenFiles": [
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "файл proto.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "файл.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
