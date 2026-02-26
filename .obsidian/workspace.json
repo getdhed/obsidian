@@ -59,8 +59,7 @@
               "title": "gRPC"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bafc1e02e271e8c",
+  "active": "8b80ee5689c5b9a0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "файл proto.md",
