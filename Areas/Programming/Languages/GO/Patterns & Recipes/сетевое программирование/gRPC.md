@@ -89,7 +89,9 @@ protoc --go_out=. --go-grpc_out=. user.proto
 - регистрация методов
 - обёртки вызовов
 ---
-
+! для кореектной работы нужно докачать зависимости:
+go get google.golang.org/protobuf@latest
+go get google.golang.org/grpc@latest
 ## 3️⃣ Реализация сервера
 
 type server struct {  
