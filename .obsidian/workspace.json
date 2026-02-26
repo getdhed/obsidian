@@ -11,10 +11,14 @@
             "id": "8b80ee5689c5b9a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gRPC"
             }
           },
           {
