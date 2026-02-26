@@ -11,13 +11,56 @@
             "id": "8b80ee5689c5b9a0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "файл proto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "файл proto"
+            }
+          },
+          {
+            "id": "8f53ce0ebfb5020a",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7bafc1e02e271e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "e17e65d8897718fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gRPC"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.51103591918945
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41e4db71a2261d46",
@@ -190,14 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b80ee5689c5b9a0",
+  "active": "7bafc1e02e271e8c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "файл proto.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+    "файл.md",
+    "server_grpc pb go.md",
+    "server pb go.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Goroutine.md",
     "Untitled.md",
     "Panic.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/проектирование",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Protocol Buffers.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP Handlers.md",
     "Dependency Injection.md",
@@ -214,13 +263,8 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Протокол.md",
     "Areas/Programming/Languages/GO/Syntax & Basics/Testing.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Swagger.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
-    "net/HTTP.md",
-    "HTTP/HTTP2.md",
     "HTTP",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Middleware.md",
     "Untitled.base",
-    "WaitGroup.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
