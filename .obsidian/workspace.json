@@ -11,14 +11,10 @@
             "id": "740dc0b451f10a0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "таблицы связки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "таблицы связки"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +192,8 @@
   },
   "active": "740dc0b451f10a0e",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "таблицы связки.md",
+    "Untitled 1.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "server pb go.md",
     "server_grpc pb go.md",
