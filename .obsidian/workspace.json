@@ -21,12 +21,10 @@
             "id": "c9772f6c0b8a5ba4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -205,15 +203,17 @@
   },
   "active": "c9772f6c0b8a5ba4",
   "lastOpenFiles": [
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Swagger.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/HTTP.md",
+    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "таблицы связки.md",
     "Untitled 1.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/gRPC.md",
     "server pb go.md",
     "server_grpc pb go.md",
     "файл proto.md",
     "файл.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Сеть.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/Конкурентность/Goroutine.md",
     "Goroutine.md",
     "Untitled.md",
     "Panic.md",
@@ -230,8 +230,6 @@
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/JWT.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Gorilla Mux.md",
     "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Chi Router.md",
-    "Areas/Programming/Languages/GO/Patterns & Recipes/сетевое программирование/Протокол.md",
-    "Areas/Programming/Languages/GO/Syntax & Basics/Testing.md",
     "HTTP",
     "Untitled.base",
     "Untitled 1.canvas",
